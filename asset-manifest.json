@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/aharshbe_portfolio/static/css/main.34de6062.chunk.css",
+    "main.js": "/aharshbe_portfolio/static/js/main.38792612.chunk.js",
+    "main.js.map": "/aharshbe_portfolio/static/js/main.38792612.chunk.js.map",
+    "runtime-main.js": "/aharshbe_portfolio/static/js/runtime-main.70028fdb.js",
+    "runtime-main.js.map": "/aharshbe_portfolio/static/js/runtime-main.70028fdb.js.map",
+    "static/js/2.669b3aef.chunk.js": "/aharshbe_portfolio/static/js/2.669b3aef.chunk.js",
+    "static/js/2.669b3aef.chunk.js.map": "/aharshbe_portfolio/static/js/2.669b3aef.chunk.js.map",
+    "index.html": "/aharshbe_portfolio/index.html",
+    "precache-manifest.9f263c4db4ec967be83a15087fd1d658.js": "/aharshbe_portfolio/precache-manifest.9f263c4db4ec967be83a15087fd1d658.js",
+    "service-worker.js": "/aharshbe_portfolio/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/aharshbe_portfolio/static/css/main.34de6062.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70028fdb.js",
+    "static/js/2.669b3aef.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.38792612.chunk.js"
+  ]
+}
